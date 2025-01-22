@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @KennyYu727
-- 👀 I’m interested in Machine Learning Deep Learning, Web Development
-- 🌱 I’m currently learning PhD at QUT
-- 💞️ I’m looking to collaborate on anything :)
-- 📫 How to reach me - kenny727yp@gmail.com
+# 👋 Hey there! I'm [@KennyYu727](https://github.com/KennyYu727)
 
-<!---
-KennyYu727/KennyYu727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 **I'm passionate about:** Machine Learning, Deep Learning, and Web Development
+- 🧠 **Current Role:** Data Engineer
+- 🌱 **Learning & Growing:** Always exploring new tech and improving my skills in data engineering and AI
+- 🤝 **Let's Collaborate:** Open to exciting projects! Drop me a message if you want to work together. 
+- 📬 **Reach out to me:** kenny727yp@gmail.com
+
+---
+
+✨ **Fun Fact:** I love tackling complex problems and turning them into creative solutions with data and code!
